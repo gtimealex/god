@@ -1,0 +1,2 @@
+# god
+an easy program
